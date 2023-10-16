@@ -44,7 +44,7 @@ Before you get started, ensure you have the following prerequisites installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/electricity-bill-system.git
+   git clone https://github.com/RANJITHM0019/EBbill.git
 
 1. Import the project into Eclipse.
 2. Configure the project settings if necessary.
@@ -81,11 +81,10 @@ Submit a pull request.
 
 ## Contact
 
-Vigneshwaran
-vigneshwaraneem@gmail.com
-Project Link: https://github.com/vigneshwaraneem/electricity-bill-system
+ranjithkumar
+ranjithmurugan0019@gmail.com
 
 
-Make sure to replace Vigneshwaran, vigneshwaraneem, vigneshwaraneem@gmail.com, and https://github.com/vigneshwaraneem/EBSystem with your actual information and project details.
+Make sure to replace ranjithkumar, ranjithmurugan0019@gmail.com, and https://github.com/RANJITHM0019/EBbill with your actual information and project details.
 
 Additionally, provide screenshots that showcase your application's user interface and functionality to make it more visually appealing and informative.
